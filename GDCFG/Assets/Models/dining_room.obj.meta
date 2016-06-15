@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d32b8ea950ff42a4da7ecd47ddb70a78
+timeCreated: 1464152117
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: glases_Cube.006_glass.001
+    100004: glasses_doorL_Cube.009_glass.001
+    100006: glasses_doorR_Cube.010_glass.001
+    100008: handle.001_Sphere.001_Cr.nk
+    100010: handle.002_Sphere.002_Cr.nk
+    100012: handle.003_Sphere.003_Cr.nk
+    100014: handle.004_Sphere.004_Cr.nk
+    100016: handle.005_Sphere.005_Cr.nk
+    100018: handle.006_Sphere.006_Cr.nk
+    100020: handle_Sphere_Cr.nk
+    100022: left_doors_Cube.005_white_wood_butcherblock_tile
+    100024: principal_Cube_white_wood_butcherblock_tile
+    100026: right_doors_Cube.002_white_wood_butcherblock_tile
+    100028: shelves_Cube.008_white_wood_butcherblock_tile
+    100030: top_Cube.007_white_wood_butcherblock_tile
+    400000: //RootNode
+    400002: glases_Cube.006_glass.001
+    400004: glasses_doorL_Cube.009_glass.001
+    400006: glasses_doorR_Cube.010_glass.001
+    400008: handle.001_Sphere.001_Cr.nk
+    400010: handle.002_Sphere.002_Cr.nk
+    400012: handle.003_Sphere.003_Cr.nk
+    400014: handle.004_Sphere.004_Cr.nk
+    400016: handle.005_Sphere.005_Cr.nk
+    400018: handle.006_Sphere.006_Cr.nk
+    400020: handle_Sphere_Cr.nk
+    400022: left_doors_Cube.005_white_wood_butcherblock_tile
+    400024: principal_Cube_white_wood_butcherblock_tile
+    400026: right_doors_Cube.002_white_wood_butcherblock_tile
+    400028: shelves_Cube.008_white_wood_butcherblock_tile
+    400030: top_Cube.007_white_wood_butcherblock_tile
+    2300000: glases_Cube.006_glass.001
+    2300002: glasses_doorL_Cube.009_glass.001
+    2300004: glasses_doorR_Cube.010_glass.001
+    2300006: handle.001_Sphere.001_Cr.nk
+    2300008: handle.002_Sphere.002_Cr.nk
+    2300010: handle.003_Sphere.003_Cr.nk
+    2300012: handle.004_Sphere.004_Cr.nk
+    2300014: handle.005_Sphere.005_Cr.nk
+    2300016: handle.006_Sphere.006_Cr.nk
+    2300018: handle_Sphere_Cr.nk
+    2300020: left_doors_Cube.005_white_wood_butcherblock_tile
+    2300022: principal_Cube_white_wood_butcherblock_tile
+    2300024: right_doors_Cube.002_white_wood_butcherblock_tile
+    2300026: shelves_Cube.008_white_wood_butcherblock_tile
+    2300028: top_Cube.007_white_wood_butcherblock_tile
+    3300000: glases_Cube.006_glass.001
+    3300002: glasses_doorL_Cube.009_glass.001
+    3300004: glasses_doorR_Cube.010_glass.001
+    3300006: handle.001_Sphere.001_Cr.nk
+    3300008: handle.002_Sphere.002_Cr.nk
+    3300010: handle.003_Sphere.003_Cr.nk
+    3300012: handle.004_Sphere.004_Cr.nk
+    3300014: handle.005_Sphere.005_Cr.nk
+    3300016: handle.006_Sphere.006_Cr.nk
+    3300018: handle_Sphere_Cr.nk
+    3300020: left_doors_Cube.005_white_wood_butcherblock_tile
+    3300022: principal_Cube_white_wood_butcherblock_tile
+    3300024: right_doors_Cube.002_white_wood_butcherblock_tile
+    3300026: shelves_Cube.008_white_wood_butcherblock_tile
+    3300028: top_Cube.007_white_wood_butcherblock_tile
+    4300000: glases_Cube.006_glass.001
+    4300002: glasses_doorL_Cube.009_glass.001
+    4300004: glasses_doorR_Cube.010_glass.001
+    4300006: handle.001_Sphere.001_Cr.nk
+    4300008: handle.002_Sphere.002_Cr.nk
+    4300010: handle.003_Sphere.003_Cr.nk
+    4300012: handle.004_Sphere.004_Cr.nk
+    4300014: handle.005_Sphere.005_Cr.nk
+    4300016: handle.006_Sphere.006_Cr.nk
+    4300018: handle_Sphere_Cr.nk
+    4300020: left_doors_Cube.005_white_wood_butcherblock_tile
+    4300022: principal_Cube_white_wood_butcherblock_tile
+    4300024: right_doors_Cube.002_white_wood_butcherblock_tile
+    4300026: shelves_Cube.008_white_wood_butcherblock_tile
+    4300028: top_Cube.007_white_wood_butcherblock_tile
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
